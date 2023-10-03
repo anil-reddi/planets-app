@@ -1,0 +1,17 @@
+.app-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  min-height: 100vh;
+  padding: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.heading {
+  color: #05acff;
+  font-size: 40px;
+  font-family: 'Roboto';
+  line-height: 1.2;
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 44px;
+}
